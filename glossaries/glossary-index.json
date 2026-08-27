@@ -462,5 +462,15 @@
     "maintainer": "riddikulusknowsnothing",
     "visibility": true,
     "feedback": "https://github.com/Sameenwoof"
+  },
+  {
+    "name": "LCK",
+    "tags": [
+      "26lck+部分lpl韩援+部分退役选手罗马音对照"
+    ],
+    "url": "https://raw.githubusercontent.com/lemonadening7-debug/ao3-chinese/refs/heads/main/glossaries/LCK.txt",
+    "maintainer": "Lemon",
+    "visibility": true,
+    "feedback": "https://github.com/lemonadening7-debug"
   }
 ]
