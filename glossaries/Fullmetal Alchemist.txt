@@ -1,35 +1,68 @@
 维护者：Senka
-版本号：1.0.0
-更新时间：2025-10-31
+版本号：1.0.1
+更新时间：2026-8-30
 
 词条
 // 主角团
 Edward Elric = 爱德华 艾尔利克
 Alphonse Elric = 阿尔冯斯 艾尔利克
 Von Hohenheim = 冯 霍恩海姆
-Winry Rockbell = 温莉 洛克贝
+Winry Rockbell = 温莉 洛克贝尔
 Izumi Curtis = 伊兹米 卡迪斯
+Ed：爱德
+Al：阿尔
 
 // 军
 Roy Mustang = 罗伊 马斯坦
 Riza Hawkeye = 莉莎 霍克艾
 Maes Hughes = 马斯 休斯
+Alex Louis Armstrong = 亚力克斯 路易 阿姆斯特朗
+
+King Bradley = 金 布拉德雷
+Basque Grand = 马斯特 格兰
+Zolf J. Kimbley = 佐尔夫 J 金布利
+Frank Archer = 弗兰克 阿切尔
+Black Hayate：黑色疾风号
+
+// 人造人
+Dante：但丁
+Lust：拉丝特
+Greed：格利德
+Sloth：斯洛斯
+Gluttony：格拉托尼
+Envy：恩维
+Wrath：拉斯
+Pride：普莱德
+Father：父亲大人
 
 // 其他
-Scar：刀疤
-Lin Yao：姚麟
+Scar：斯卡
+Ling Yao：姚麟
+Ling：麟
 May Chang：张梅
-Ranfun：兰芳
-
+Lan fung：兰芳
 
 通用词条
 // 专有名词
 One is All：一即是全
 All is one：全即是一
+Truth：真理
+chimera：合成兽
 Fullmetal Alchemist：钢之炼金术师
 Fullmetal：钢
 Homunculus：人造人
-Xing：兴国
+array：炼成阵
+rebound：反噬
+
+// 军衔
+colonel：上校
+
+// 地理
+Amestris：阿美斯特里斯
+Führer：大总统
+Furher：大总统
+Xing：新国
+Xingese：新国的
 Xerxes：克赛鲁克赛斯
 
 禁翻词条
