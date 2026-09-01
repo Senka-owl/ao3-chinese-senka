@@ -1,5 +1,5 @@
 维护者：Senka
-版本号：1.0.2
+版本号：1.0.3
 更新时间：2026-09-01
 
 词条
@@ -25,8 +25,6 @@ Maes Hughes = 马斯 休斯
 Gracia：格蕾西亚
 Elysia：艾丽西亚
 Maria Ross = 玛丽亚 罗斯
-丹尼 普罗修
-西丝卡
 Alex Louis Armstrong = 亚力克斯 路易 阿姆斯特朗
 Olivier Mira Armstrong = 奥利维亚 米拉 阿姆斯特朗
 Tim Marcoh = 提姆 马尔科
@@ -51,7 +49,6 @@ Envy：恩维
 Wrath：拉斯
 Pride：普莱德
 Father：父亲大人
-瓶中小人
 
 // 其他
 Scar：斯卡
