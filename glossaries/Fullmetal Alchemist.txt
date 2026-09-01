@@ -1,6 +1,6 @@
 维护者：Senka
-版本号：1.0.1
-更新时间：2026-8-30
+版本号：1.0.2
+更新时间：2026-09-01
 
 词条
 // 主角团
@@ -8,21 +8,38 @@ Edward Elric = 爱德华 艾尔利克
 Alphonse Elric = 阿尔冯斯 艾尔利克
 Von Hohenheim = 冯 霍恩海姆
 Winry Rockbell = 温莉 洛克贝尔
+Pinako：皮那可
 Izumi Curtis = 伊兹米 卡迪斯
+Sig：西格
 Ed：爱德
 Al：阿尔
 
 // 军
 Roy Mustang = 罗伊 马斯坦
 Riza Hawkeye = 莉莎 霍克艾
+Jean Havoc = 约翰 哈勃克
+Heymans Breda = 海曼斯 布莱达
+Vato Falman = 瓦特 法尔曼
+Kain Feury = 凯恩 菲利
 Maes Hughes = 马斯 休斯
+Gracia：格蕾西亚
+Elysia：艾丽西亚
+Maria Ross = 玛丽亚 罗斯
+丹尼 普罗修
+西丝卡
 Alex Louis Armstrong = 亚力克斯 路易 阿姆斯特朗
-
+Olivier Mira Armstrong = 奥利维亚 米拉 阿姆斯特朗
+Tim Marcoh = 提姆 马尔科
 King Bradley = 金 布拉德雷
+Selim：塞利姆
 Basque Grand = 马斯特 格兰
 Zolf J. Kimbley = 佐尔夫 J 金布利
 Frank Archer = 弗兰克 阿切尔
-Black Hayate：黑色疾风号
+Hakuro：哈库洛
+Grumman：古拉曼
+Shou Tucker = 修 塔克
+Nina：妮娜
+Black Hayate = 黑色 疾风号
 
 // 人造人
 Dante：但丁
@@ -34,14 +51,15 @@ Envy：恩维
 Wrath：拉斯
 Pride：普莱德
 Father：父亲大人
+瓶中小人
 
 // 其他
 Scar：斯卡
 Ling Yao：姚麟
 Ling：麟
+Yao：姚
 May Chang：张梅
-Ranfun：兰芳
-
+Lan fan：兰芳
 
 通用词条
 // 专有名词
@@ -49,22 +67,38 @@ One is All：一即是全
 All is one：全即是一
 Truth：真理
 chimera：合成兽
-Fullmetal Alchemist：钢之炼金术师
-Fullmetal：钢
+alkahestry：炼丹术
 Homunculus：人造人
 array：炼成阵
 rebound：反噬
+The Gate：门
+toll：代价
+phone：电话
+Bastard：混蛋
+automail：机械铠
+cens：先士
+cenz：先士
+
+// 称号
+Fullmetal Alchemist：钢之炼金术师
+Fullmetal：钢
+Flame Alchemist：焰之炼金术师
+Flame：焰
+Crimson Alchemist：红莲之炼金术师
 
 // 军衔
 colonel：上校
 
 // 地理
 Amestris：阿美斯特里斯
+Central：中央
 Führer：大总统
 Furher：大总统
 Xing：新国
 Xingese：新国的
+Xingan：新国语
 Xerxes：克赛鲁克赛斯
+Resembool：利森布尔
 
 禁翻词条
 // 此区域区分大小写，用于保持原文
